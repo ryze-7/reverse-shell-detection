@@ -1,3 +1,5 @@
+![Dashboard Overview](dashboard.png)
+
 # Reverse Shell Detection Lab - Splunk
 
 **Project Overview**
