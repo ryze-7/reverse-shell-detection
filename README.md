@@ -1,10 +1,8 @@
-![Dashboard Overview](dashboard.png)
-
 # Reverse Shell Detection Lab - Splunk
 
 **Project Overview**
 Detection engineering for post-exploitation attacks. Identifies reverse shell activity through network telemetry analysis using Zeek logs and Splunk SIEM.
-
+![Dashboard Overview](dashboard.png)
 **What it detects:**
 - Outbound TCP connections to suspicious ports (4444, 5555, 8080, etc.)
 - Long-duration connections (C2 beacons)
